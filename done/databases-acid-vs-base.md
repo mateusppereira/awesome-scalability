@@ -30,3 +30,8 @@ Primarily used by aggregate stores, including column family, key-value and docum
 BASE can scale so much better than ACID in term of performance and volume, but you will have much less data guarantees, you should know how to deal with this.
 
 BASE is low coupled to structure/data model changes
+
+
+
+https://neo4j.com/blog/acid-vs-base-consistency-models-explained/
+https://www.upwork.com/resources/nosql-vs-sql
