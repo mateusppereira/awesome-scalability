@@ -34,4 +34,5 @@ BASE is low coupled to structure/data model changes
 
 
 https://neo4j.com/blog/acid-vs-base-consistency-models-explained/
+
 https://www.upwork.com/resources/nosql-vs-sql
