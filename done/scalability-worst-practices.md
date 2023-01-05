@@ -27,5 +27,3 @@ Backwards-compatible changes. Versioning.
 ## Non effective monitoring
 
 > The lack of visibility into the internals of a running system [...] jeopardizes the ability to make accurate and critical decisions about where to look and what to look for
-
-
