@@ -1,0 +1,1 @@
+# [Building Twitter’s ad platform architecture for the future](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future)
